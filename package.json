@@ -1,0 +1,38 @@
+{
+  "name": "react-native-whatsapp-button",
+  "version": "1.0.0",
+  "description": "This is a package for wrapping a button for your whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Congo-CRUD/whatsapp-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "button",
+    "component",
+    "whatsapp"
+  ],
+  "author": "LeGrandMAG <congocrud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Congo-CRUD/whatsapp-button/issues"
+  },
+  "homepage": "https://github.com/Congo-CRUD/whatsapp-button#readme",
+  "peerDependencies": {
+    "react": "^18.0.20",
+    "react-native": "^0.71.6",
+    "react-native-vector-icons": "^6.4.13"
+  },
+  "devDependencies": {
+    "@babel/core": "7.21.4",
+    "babel-preset-expo": "~8.1.0",
+    "metro-react-native-babel-preset":"^0.59.0"
+  }
+
+}
